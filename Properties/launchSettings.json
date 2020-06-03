@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DD": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\LANIT\\HUAWEI\\test\\demo D:\\LANIT\\HUAWEI\\test\\dd.xml"
+    }
+  }
+}
